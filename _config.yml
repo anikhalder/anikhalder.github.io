@@ -1,0 +1,13 @@
+# Site settings
+title: Anik Halder
+
+author:
+  name: AH
+  email: ahalder [at] usm.lmu.de
+  
+# Build settings
+remote_theme: jekyll/minima
+
+minima:
+  skin: dark
+  
