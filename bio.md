@@ -3,8 +3,6 @@ layout: page
 title: Bio
 ---
 
-## Bio
-
 I was born and brought up in the town of Durgapur in West Bengal, India. After graduating from high school, I moved to Bremen, Germany in order to pursue my Bachelor in Physics.
 During my undergraduate studies, I was the recipient of the [DAAD RISE Worldwide](https://www.daad.de/rise/en/rise-worldwide/) scholarship for two consecutive years which 
 allowed me to pursue internships in astronomy at [St. Andrews](https://www.st-andrews.ac.uk/physics-astronomy/about/), Scotland and in [Tenerife](https://www.iac.es/en), Spain.
