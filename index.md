@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img align="left" width="430" height="300" src="images/Anik_Halder_img.jpg" alt="Anik Halder image" style="float:left; padding-right:12px; padding-bottom:12px" />
+<img align="left" width="430" height="300" src="images/Anik_Halder_img.jpg" alt="Anik Halder image" style="float:left; padding-right:12px; padding-bottom:6px" />
 
 Hi! I am Anik (he/him/his), a final year [IMPRS](https://www.imprs-astro.mpg.de/content/about-imprs-astrophysics.html) doctoral student in Astrophysics at the [Observatory (USM)](https://www.usm.uni-muenchen.de/) of the Ludwig Maximilians University (LMU) Munich, Germany. I am advised by [Stella Seitz](https://www.usm.lmu.de/people/stella/stella.html) and work in the chair of [Extragalactic Astronomy](https://www.exgal.physik.uni-muenchen.de/index.html) at LMU led by [Ralf Bender](https://www.mpe.mpg.de/~bender/). I am also affiliated with the [OPINAS](https://www.mpe.mpg.de/opinas-en) research group at the Max Planck Institute for Extraterrestrial Physics (MPE), Garching, Germany.  
 
