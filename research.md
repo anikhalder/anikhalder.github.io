@@ -3,7 +3,9 @@ layout: my-page
 title: Research
 ---
 
-## The integrated 3-point correlation function of projected cosmic density fields
+My research activities and their associated publications:
+
+### The integrated 3-point correlation function of projected cosmic density fields
 
 <img src="images/6xi3PCFs_illustration_v4.png" alt="Integrated 3PCFs image" style="float:left; padding-bottom:12px" />
 
@@ -23,13 +25,13 @@ Gong, **Halder**, Barreira, Seitz, Friedrich (2023)\
 
 **Halder**, Gong, Barreira, Friedrich, Seitz, Gruen (2023)\
 *Beyond 3x2-point cosmology: the integrated shear and galaxy 3-point correlation functions*\
-[arXiv:2305.17132](https://arxiv.org/abs/2305.17132) 
+[arXiv:2305.17132](https://arxiv.org/abs/2305.17132) &nbsp; JCAP (submitted)
 
 &nbsp;
 
-## The joint PDF of galaxy and matter density fluctiations
+### The joint PDF of galaxy and matter density fluctiations
 
-<img align="left" width="360" height="300" src="images/jointPDF.png" alt="Joint PDF image" style="float:left; padding-right:12px" />
+<img align="left" width="330" height="300" src="images/jointPDF.png" alt="Joint PDF image" style="float:left; padding-right:12px" />
 
 Along with my collaborators I have worked on modelling the 1-point joint PDF of 3D matter and galaxy density fluctuations (see image on the left; courtesy: Friedrich et al. 2022). Conventional 2-point analysis tools would compress this joint PDF into just 3 quantities: the variance of matter density fluctuations, the variance of galaxy density fluctuations and their cross-covariance. In this work we developed a model for the full shape of the joint galaxy-matter PDF and extensively validated it using N-body simulations and mock Halo Occupation Distribution (HOD) galaxy catalogs. Studying the full shape of the 1-point PDF is another way to go beyond 2-point analyses and enables further insights into the nature of the cosmic web of structures, especially on cosmological as well as galaxy bias and stochasticity parameters. We are currently extending our modelling to perform a joint-PDF analysis using CMB lensing data from SPT and DESY3 lens galaxies.
 
@@ -39,7 +41,7 @@ Friedrich, **Halder**, Boyle, Uhlemann, Britt, Codis, Gruen, Hahn (2022)\
 
 &nbsp;
 
-## Analytical modelling of the Kaiser-Squires reconstructed lensing convergence PDF under realistic survey masks
+### Modelling the Kaiser-Squires reconstructed lensing convergence PDF under realistic survey masks
 
 <img align="left" width="360" height="260" src="images/convergenceKS_PDF.png" alt="Joint PDF image" style="float:left; padding-right:12px" />
 
@@ -47,4 +49,4 @@ In weak lensing surveys the lensing convergence field (can be thought of as the 
 
 Barthelemy, **Halder**, Gong, Uhlemann (2023)\
 *Making the leap I: Modelling the reconstructed lensing convergence PDF from cosmic shear with survey masks and systematics*\
-[arXiv:2307.09468](https://arxiv.org/abs/2307.09468) 
+[arXiv:2307.09468](https://arxiv.org/abs/2307.09468) &nbsp; JCAP (submitted)
