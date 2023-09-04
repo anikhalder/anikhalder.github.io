@@ -9,5 +9,5 @@ author:
 remote_theme: jekyll/minima
 
 minima:
-  skin: dark
+  skin: classic
   
