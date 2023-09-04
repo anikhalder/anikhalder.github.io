@@ -3,8 +3,6 @@ layout: page
 title: Research
 ---
 
-<div style="width: 1500px">
-
 My research activities and their associated publications:
 
 ## The integrated 3-point correlation function of projected cosmic density fields
