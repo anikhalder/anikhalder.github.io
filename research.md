@@ -27,15 +27,26 @@ Gong, **Halder**, Barreira, Seitz, Friedrich (2023)\
 *Beyond 3x2-point cosmology: the integrated shear and galaxy 3-point correlation functions*\
 [arXiv:2305.17132](https://arxiv.org/abs/2305.17132) 
 
+&nbsp;
 
 ## The joint PDF of galaxy and matter density fluctiations
 
 <img align="left" width="360" height="300" src="images/jointPDF.png" alt="Joint PDF image" style="float:left; padding-right:12px" />
 
 Along with my collaborators I have worked on modelling the 1-point joint PDF of matter and galaxy density fluctuations (see image on the left). Conventional 2-point analysis tools would compress the joint PDF to 3 quantities: the variance of matter density fluctuations, the variance of galaxy density fluctuations and their covariance. In this work we developed a model for the full shape of the joint galaxy-matter PDF and extensively validated it using N-body simulations and mock Halo-occupation-distribution (HOD) galaxy catalogs. Studying the full shape of the 1-point PDF is another way to go beyond 2-point analyses and enables further insights into the nature of the cosmic web of structures, especially on cosmological as well as galaxy bias and stochasticity parameters. We are currently using our model to perform a joint-PDF analysis using CMB lensing data from SPT and DESY3 lens galaxies.\
-\
+
 Friedrich, **Halder**, Boyle, Uhlemann, Britt, Codis, Gruen, Hahn (2022)\
 *The PDF perspective on the tracer-matter connection: Lagrangian bias and non-Poissonian shot noise*\
 [arXiv:2107.02300](https://arxiv.org/abs/2107.02300) &nbsp; [MNRAS](https://academic.oup.com/mnras/article/510/4/5069/6505138?login=true)
 
+&nbsp;
 
+## Analytical modelling of the Kaiser-Squires reconstructed lensing convergence field under realistic survey masks
+
+<img align="left" width="360" height="270" src="images/convergenceKS_PDF.png" alt="Joint PDF image" style="float:left; padding-right:12px" />
+
+In weak lensing surveys the lensing convergence itself is not a direct observable. However, the more directly observable cosmic shear field is related to teh convergence through a convolution and hence the convergence field can be reconstructed from the shear through a technique called the Kaiser-Squires (KS) inversion. One big challenge to this KS inversion is that the reconstruction procedure is non-local and hence is exact only if one has access to the cosmic shear field at every location on the sky which is of course unfeasible in the presence of survey masks. Hence, a vanilla KS convergence reconstruction severely suffers from masking effects. In this work we presented an accurate analytical prediction of the KS reconstructed convergence PDF for a DESY3-like survey that we validate against simulations while taking masking into account. We also discussed the modelling of several systematic effects into the reconstructed convergence PDF including galaxy intrinsic alignments, additive and multiplicative shear biases, photometric redshift uncertainties and higher-order lensing corrections. This is the first in a series of papers where we will demonstrate the robustness of our modelling through simulated likelihood analyses, before we apply our method to actual DESY3 data.
+
+Barthelemy, **Halder**, Gong, Uhlemann (2023)\
+*Making the leap I: Modelling the reconstructed lensing convergence PDF from cosmic shear with survey masks and systematics*\
+[arXiv:2307.09468](https://arxiv.org/abs/2307.09468) 
