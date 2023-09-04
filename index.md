@@ -14,7 +14,7 @@ I was born and brought up in the town of Durgapur in West Bengal, India. After g
 During my undergraduate studies, I was the recipient of the [DAAD RISE Worldwide](https://www.daad.de/rise/en/rise-worldwide/) scholarship for two consecutive years which 
 allowed me to pursue internships in astronomy at [St. Andrews](https://www.st-andrews.ac.uk/physics-astronomy/about/) and [Tenerife](https://www.iac.es/en).
 The internships solidified my interest in astronomy and after obtaining my bachelor's degree, I moved to Munich to pursue an MSc in Astrophysics. 
-While pursuing my master's, I worked part-time as a software developer in the
+While pursuing my master's, I worked part-time as a research assitant in the
 [Scientific Computing research group of the Heinz Maier-Leibnitz Zentrum (MLZ)](https://mlz-garching.de/englisch/science-und-projects/project-coordination/scientific-computing.html), Garching. I have been in Munich since and after my master's, I'm currently pursuing a PhD in Astrophysics at LMU. For more details please refer to my CV.
 
 I love football and am a loyal supporter of Arsenal FC.
