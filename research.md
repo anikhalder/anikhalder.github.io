@@ -9,7 +9,7 @@ My research activities and their associated publications:
 
 <img src="images/6xi3PCFs_illustration_v4.png" alt="Integrated 3PCFs image" style="float:left; padding-bottom:12px" />
 
-In this series of works we have developed a set of practical higher-order statistics called the *integrated 3-point correlation functions* which can be easily measured from galaxy imaging data alongside conventional 2-point statistical methods and has the potential to put tighter constraints on cosmological, galaxy bias as well as baryonic feedback parameters. This statistic measures the correlation of the *position-dependent* 2-point correlation functions of a field (e.g. 3x2 point galaxy-lensing correlations) inside a local 2D patch with the 1-point average shear or galaxy density field within the same patch. This correlation admits a very well-defined physical interpretation as the modulation of the small-scale 2PCFs by long-wavelength features of the field and in turn is sensitive to the higher-order squeezed bispectrum configurations (3-point function) of the field. Using semi-analytical methods based on perturbation theory for accurately modelling this statistic along with the inclusion of galaxy bias, intrinsic alignments, baryonic feedback effects as well as other nuisance parameters, we have extensively validated our models against simulations and with state-of-the art machine learning neural networks developed fast inference pipelines for their application to galaxy survey data. We are currently analysing this statistic in the Dark Energy Survey's Year 3 data.
+In this series of works we have developed a set of practical higher-order statistics called the *integrated 3-point correlation functions* which can be easily measured from galaxy imaging data alongside conventional 2-point statistical methods and has the potential to put tighter constraints on cosmological, galaxy bias as well as baryonic feedback parameters. This statistic measures the correlation of the *position-dependent* 2-point correlation functions of a field (e.g. 3x2 point galaxy-lensing correlations) inside a local 2D patch with the 1-point average shear or galaxy density field within the same patch. This correlation admits a very well-defined physical interpretation as the modulation of the small-scale 2PCFs by long-wavelength features of the field and in turn is sensitive to the higher-order squeezed bispectrum configurations (3-point function) of the field. Using semi-analytical methods based on perturbation theory for accurately modelling this statistic along with the inclusion of galaxy bias, intrinsic alignments, baryonic feedback effects as well as other nuisance parameters, we have extensively validated our models against N-body simulations and with state-of-the art machine learning neural networks developed fast inference pipelines for their application to galaxy survey data. We are currently analysing this statistic in the Dark Energy Survey's Year 3 data.
 
 **Halder**, Friedrich, Seitz, Varga (2021)\
 *The integrated 3-point correlation function of cosmic shear*\
@@ -26,3 +26,16 @@ Gong, **Halder**, Barreira, Seitz, Friedrich (2023)\
 **Halder**, Gong, Barreira, Friedrich, Seitz, Gruen (2023)\
 *Beyond 3x2-point cosmology: the integrated shear and galaxy 3-point correlation functions*\
 [arXiv:2305.17132](https://arxiv.org/abs/2305.17132) 
+
+
+## The joint PDF of galaxy and matter density fluctiations
+
+<img align="left" width="360" height="300" src="images/jointPDF.png" alt="Joint PDF image" style="float:left; padding-right:12px" />
+
+Along with my collaborators I have worked on modelling the 1-point joint PDF of matter and galaxy density fluctuations (see image on the left). Conventional 2-point analysis tools would compress the joint PDF to 3 quantities: the variance of matter density fluctuations, the variance of galaxy density fluctuations and their covariance. In this work we developed a model for the full shape of the joint galaxy-matter PDF and extensively validated it using N-body simulations and mock Halo-occupation-distribution (HOD) galaxy catalogs. Studying the full shape of the 1-point PDF is another way to go beyond 2-point analyses and enables further insights into the nature of the cosmic web of structures, especially on cosmological as well as galaxy bias and stochasticity parameters. We are currently applying this to perform a joint-PDF analysis of SPT CMB lensing and DESY3 lens galaxies.\\
+
+Friedrich, **Halder**, Boyle, Uhlemann, Britt, Codis, Gruen, Hahn (2022)\
+*The PDF perspective on the tracer-matter connection: Lagrangian bias and non-Poissonian shot noise*\
+[arXiv:2107.02300](https://arxiv.org/abs/2107.02300) &nbsp; [MNRAS](https://academic.oup.com/mnras/article/510/4/5069/6505138?login=true)
+
+
