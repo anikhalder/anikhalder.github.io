@@ -1,6 +1,6 @@
 ---
 layout: my-page
-title: ramblings
+title: Ramblings
 ---
 
 This is a page where I share my own ramblings about experiences during the course of my Physics/Astrophysics education. If an undergraduate or a starting graduate student is reading this, I hope they either find it useful or find it to be amusing. 
