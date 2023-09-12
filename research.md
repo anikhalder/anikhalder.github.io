@@ -27,7 +27,7 @@ Gong, **Halder**, Barreira, Seitz, Friedrich (2023)\
 
 **Halder**, Gong, Barreira, Friedrich, Seitz, Gruen (2023)\
 *Beyond 3x2-point cosmology: the integrated shear and galaxy 3-point correlation functions*\
-[arXiv:2305.17132](https://arxiv.org/abs/2305.17132) &nbsp; JCAP (submitted)
+[arXiv:2305.17132](https://arxiv.org/abs/2305.17132) &nbsp; JCAP (accepted)
 
 &nbsp;
 
