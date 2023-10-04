@@ -6,7 +6,7 @@ title: Teaching
 
 ### Teaching
 
-- Tutor for the MSc Astrophysics [Basics and Numerical labs](https://www.usm.lmu.de/Lehre/Lehrveranstaltungen/Praktikum/) at LMU Munich (Summer semester 2020 - present). Designed the [Weak Gravitational lensing] (https://datashare.mpcdf.mpg.de/s/iQL4nUmrDaYzmfP) lab along with Zhengyangguang Gong.
+- Tutor for the MSc Astrophysics [Basics and Numerical labs](https://www.usm.lmu.de/Lehre/Lehrveranstaltungen/Praktikum/) at LMU Munich (Summer semester 2020 - present). Designed the [Weak Gravitational lensing](https://datashare.mpcdf.mpg.de/s/iQL4nUmrDaYzmfP) lab along with Zhengyangguang Gong.
 - Tutor and substitute lecturer for the MSc Astrophysics course *Formation and Evolution of Cosmic Structures* by [Dr. Ariel Sanchez](https://www.mpe.mpg.de/~arielsan/) at LMU Munich (Summer Semester 2023).
 - Tutor for the BSc Physics lab at LMU Munich (Winter semester 2019/2020).
   
