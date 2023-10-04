@@ -3,7 +3,7 @@ layout: my-page
 title: Research
 ---
 
-Over the course of my Bachelor's, Master's and ongoing Ph.D. education I have had the opportunity to work on several short and long-term research projects in various topics in Physics through internships, research assistantships or thesis projects (please refer to my [CV](cv/AnikHalder_CV.pdf) for details). I have worked mainly on analytical and computational projects in the fields of laser optics, planetary science, geosciences, nonlinear dynamics, x-ray reflectometry and of course, astrophysics. 
+Over the course of my Bachelor's, Master's and ongoing Ph.D. education I have had the opportunity to work on several short and long-term research projects in various topics in Physics through internships, research assistantships or thesis projects (please refer to my [CV](cv/AnikHalder_CV.pdf) for details). I have worked mainly on analytical and computational projects in the fields of laser optics, planetary and space science, geosciences, x-ray reflectometry and of course, astrophysics. 
 
 Here, I present some of my current research projects in weak lensing cosmology and their associated publications:
 
