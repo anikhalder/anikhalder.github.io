@@ -3,9 +3,11 @@ layout: my-page
 title: Talks
 ---
 
-I have given over 20 talks at conferences, seminars, colloquia and collaboration meetings. Below are a few selected presentations: 
+I have given over 15 talks at conferences, seminars, colloquia and collaboration meetings. Below are a few selected presentations: 
 
 ## Selected talks
+
+(outside Munich area)
 
 - *April 2023*, *The Integrated 3-point correlation function of projected cosmic density fields*, **Future Cosmology summer school, Cargese, France**.
 - *Feb 2023*, *The Integrated 3-point correlation function of cosmic shear*, **Astromerique Speaker Series, University of Montreal, Canada** (remotely).
