@@ -3,12 +3,13 @@ layout: my-page
 title: Talks
 ---
 
-I have given over 15 talks at conferences, seminars, colloquia and collaboration meetings. Below are a few selected presentations: 
+I have given over 15 talks at conferences, seminars, colloquia, and collaboration meetings. Below are a few selected presentations: 
 
 ## Selected talks
 
 (outside Munich area)
 
+- *May 2024*, *The Integrated 3-point correlation function of projected cosmic density fields*, **18th Kosmologietag, Bielefeld, Germany**.
 - *April 2023*, *The Integrated 3-point correlation function of projected cosmic density fields*, **Future Cosmology summer school, Cargese, France**.
 - *Feb 2023*, *The Integrated 3-point correlation function of cosmic shear*, **Astromerique Speaker Series, University of Montreal, Canada** (remotely).
 - *Jan 2023*, *Response approach to the Integrated shear 3-point correlation function: impact of baryonic effects on small scales*, **Cosmo-Exgal seminar, University College London, UK**.
