@@ -51,4 +51,6 @@ In weak lensing surveys, the lensing convergence field (which can be thought of 
 
 Barthelemy, **Halder**, Gong, Uhlemann (2023)\
 *Making the leap I: Modelling the reconstructed lensing convergence PDF from cosmic shear with survey masks and systematics*\
-[arXiv:2307.09468](https://arxiv.org/abs/2307.09468) &nbsp; JCAP (submitted)
+[arXiv:2307.09468](https://arxiv.org/abs/2307.09468) &nbsp; [JCAP](https://iopscience.iop.org/article/10.1088/1475-7516/2024/03/060)
+
+&nbsp;
