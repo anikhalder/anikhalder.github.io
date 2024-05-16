@@ -14,6 +14,7 @@ title: Teaching
 
 ### Mentoring experience
 
+- **Yunhe Wang** (Master's student at LMU Munich), **Research project** (2023-present) : *The impact of non-standard dark matter models on gravitational lensing statistics*.
 - **David Gebauer** (Master's student at LMU Munich), **MSc thesis** (2023-present) : *Probing higher-order lensing statistics with simulation based inference*.
 - **Yue Pan** (Graduate student at Princeton University), **DAAD RISE undergraduate scholar** (Summer semester 2022): *Massive Data Compression on Convergence Two-Point Correlation Function*.
 - **Zhengyangguang Gong** (PhD candidate in Astrophysics at LMU Munich), **MSc thesis** (2020-2021): *Constraining Neutrino Masses with Weakn Lensing Convergence 2-point Correlation Function*.
