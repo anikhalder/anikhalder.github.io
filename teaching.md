@@ -6,7 +6,7 @@ title: Teaching
 
 ### Teaching
 
-- Tutor for the MSc Astrophysics [Basics and Numerical labs](https://www.usm.lmu.de/Lehre/Lehrveranstaltungen/Praktikum/) at LMU Munich (Summer semester 2020 - present). Designed the [Weak Gravitational lensing](https://datashare.mpcdf.mpg.de/s/iQL4nUmrDaYzmfP) lab along with Zhengyangguang Gong.
+- Tutor for the MSc Astrophysics [Basics and Numerical labs](https://www.usm.lmu.de/Lehre/Lehrveranstaltungen/Praktikum/) at LMU Munich (Summer semester 2020 - 2024). Designed the [Weak Gravitational lensing](https://datashare.mpcdf.mpg.de/s/iQL4nUmrDaYzmfP) lab along with Zhengyangguang Gong.
 - Tutor and substitute lecturer for the MSc Astrophysics course *Formation and Evolution of Cosmic Structures* by [Dr. Ariel Sanchez](https://www.mpe.mpg.de/~arielsan/) at LMU Munich (Summer Semester 2023).
 - Tutor for the BSc Physics lab at LMU Munich (Winter semester 2019/2020).
   
@@ -14,9 +14,9 @@ title: Teaching
 
 ### Mentoring experience
 
-- **Yunhe Wang** (Master's student at LMU Munich), **Research project** (2023-present) : *The impact of non-standard dark matter models on gravitational lensing statistics*.
-- **David Gebauer** (Master's student at LMU Munich), **MSc thesis** (2023-present) : *Probing higher-order lensing statistics with simulation based inference*.
-- **Yue Pan** (Graduate student at Princeton University), **DAAD RISE undergraduate scholar** (Summer semester 2022): *Massive Data Compression on Convergence Two-Point Correlation Function*.
-- **Zhengyangguang Gong** (PhD candidate in Astrophysics at LMU Munich), **MSc thesis** (2020-2021): *Constraining Neutrino Masses with Weakn Lensing Convergence 2-point Correlation Function*.
+- **David Gebauer** (Currently: --> PhD student at University of Bielefeld), **MSc and PhD projects** (2023-present) : *Probing higher-order lensing statistics with simulation based inference*.
+- **Yunhe Wang** (Currently: PhD student at LMU Munich), **Research project** (2023-2024) : *The impact of non-standard dark matter models on gravitational lensing statistics*.
+- **Yue Pan** (Currently: Graduate student at Princeton University), **DAAD RISE undergraduate scholar** (Summer semester 2022): *Massive Data Compression on Convergence Two-Point Correlation Function*.
+- **Zhengyangguang Gong** (Currently: Completed PhD in Astrophysics at LMU Munich and moving to Arizona as a postdoc), **MSc and PhD projects** (2020-2025),
 
 &nbsp;
