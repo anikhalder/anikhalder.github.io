@@ -4,7 +4,7 @@ layout: home
 
 <img align="left" width="430" height="300" src="images/Anik_Halder_img.jpg" alt="Anik Halder image" style="float:left; padding-right:12px" />
 
-Hi! I am Anik (he/him/his), a postdoctoral research associate at the [Insitute of Astronomy IoA](https://www.ast.cam.ac.uk/) and in the [Kavli Institute for Cosmology](https://www.kicc.cam.ac.uk/), Cambridge. I am also affiliated to [Jesus College, as a College Postdoctoral Associate](https://www.jesus.cam.ac.uk/people/anik-halder).
+Hi! I am Anik (he/him/his), a postdoctoral research associate at the [Insitute of Astronomy IoA](https://www.ast.cam.ac.uk/) and in the [Kavli Institute for Cosmology](https://www.kicc.cam.ac.uk/), Cambridge. I am also affiliated to [Jesus College, as a College Postdoctoral Associate](https://www.jesus.cam.ac.uk/people/anik-halder). I also work as a voluntary cafe retailer at the [Meadows Community Centre Cafe](https://www.cambridge.gov.uk/meadows-community-centre) run by the [Royal Voluntary Service](https://www.royalvoluntaryservice.org.uk/). 
 
 My [research](research.md) focuses on galaxy formation and evolution and weak gravitational lensing cosmology. I work towards bridging theory and observations, specializing in the development, and analyses of practical, theoretically tractable *higher-order weak lensing statistics (beyond traditional 2-point correlations)* as well as *in the inference of physical properties of the millions of galaxies imaged in weak gravitational lensing datasets*. A core question that I spend a lot of my time currently thinking about is *how to do Bayesian cosmology cleanly with priors that we actually believe in (either physically motivated or data-driven or both)*.
 
