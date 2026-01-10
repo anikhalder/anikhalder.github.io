@@ -11,7 +11,7 @@ Here, I present some of my current research projects in weak lensing cosmology a
 
 <img src="images/6xi3PCFs_illustration_v4.png" alt="Integrated 3PCFs image" style="float:left; padding-bottom:12px" />
 
-In this series of works we have developed a set of practical higher-order statistics called the *integrated 3-point correlation functions* which can be easily measured from galaxy imaging data alongside conventional 2-point statistical methods and has the potential to put tighter constraints on cosmological, galaxy bias as well as baryonic feedback parameters (see image above; courtesy: *Halder et al. 2023*). This statistic measures the *position-dependent* 2-point correlation functions of a field (e.g. 3 x 2-point galaxy-lensing correlations) inside a local 2D patch and correlates them with the 1-point average shear or galaxy density within the same patch. This correlation admits a very well-defined physical interpretation as the modulation of the small-scale 2PCFs by long-wavelength features of the field and in turn is sensitive to the higher-order squeezed bispectrum configurations (3-point function) of the field. Using semi-analytical methods based on perturbation theory for accurately modelling this statistic along with the inclusion of galaxy bias, intrinsic alignments, baryonic feedback effects as well as other nuisance parameters, we have extensively validated our models against N-body simulations and with state-of-the art machine learning neural networks developed fast inference pipelines for their application to galaxy survey data. We are currently analysing this statistic in the Dark Energy Survey's Year 3 data.
+In this series of works we have developed a set of practical higher-order statistics called the *integrated 3-point correlation functions* which can be easily measured from galaxy imaging data alongside conventional 2-point statistical methods and has the potential to put tighter constraints on cosmological, galaxy bias as well as baryonic feedback parameters (see image above; courtesy: *Halder et al. 2023*). This statistic measures the *position-dependent* 2-point correlation functions of a field (e.g. 3 x 2-point galaxy-lensing correlations) inside a local 2D patch and correlates them with the 1-point average shear or galaxy density within the same patch. This correlation admits a very well-defined physical interpretation as the modulation of the small-scale 2PCFs by long-wavelength features of the field and in turn is sensitive to the higher-order squeezed bispectrum configurations (3-point function) of the field. Using semi-analytical methods based on perturbation theory for accurately modelling this statistic along with the inclusion of galaxy bias, intrinsic alignments, baryonic feedback effects as well as other nuisance parameters, we have extensively validated our models against N-body simulations and with state-of-the art machine learning neural networks developed fast inference pipelines for their application to galaxy survey data (which we are currently undertaking). We are also extending this to a simulation based inference framework.
 
 **Halder**, Friedrich, Seitz, Varga (2021)\
 *The integrated 3-point correlation function of cosmic shear*\
@@ -29,6 +29,10 @@ Gong, **Halder**, Barreira, Seitz, Friedrich (2023)\
 *Beyond 3x2-point cosmology: the integrated shear and galaxy 3-point correlation functions*\
 [arXiv:2305.17132](https://arxiv.org/abs/2305.17132) &nbsp; [JCAP](https://iopscience.iop.org/article/10.1088/1475-7516/2023/10/028)
 
+Gebauer, **Halder**, Seitz, Anbajagane (2025)\
+*𝚂𝙱𝚒𝟹𝙿𝙲𝙵: Simulation-based inference with the integrated 3PCF*\
+[arXiv:2510.13805](https://arxiv.org/abs/2510.13805) &nbsp;
+
 &nbsp;
 
 ### The joint PDF of galaxy and matter density fluctuations
@@ -41,15 +45,19 @@ Friedrich, **Halder**, Boyle, Uhlemann, Britt, Codis, Gruen, Hahn (2022)\
 *The PDF perspective on the tracer-matter connection: Lagrangian bias and non-Poissonian shot noise*\
 [arXiv:2107.02300](https://arxiv.org/abs/2107.02300) &nbsp; [MNRAS](https://academic.oup.com/mnras/article/510/4/5069/6505138?login=true)
 
+Friedrich, Castiblanco, **Halder**, Uhlemann (2025)\
+*Bye binormal: analysing the joint PDF of galaxy density and weak lensing convergence*\
+[arXiv:2507.16957](https://arxiv.org/abs/2507.16957) &nbsp; [MNRAS](https://academic.oup.com/mnras/article/545/4/staf2181/8408449)
+
 &nbsp;
 
 ### Modelling the Kaiser-Squires reconstructed lensing convergence PDF under realistic survey masks
 
 <img align="left" width="360" height="260" src="images/convergenceKS_PDF.png" alt="Joint PDF image" style="float:left; padding-right:12px" />
 
-In weak lensing surveys, the lensing convergence field (which can be thought of as the line-of-sight projected mass map) itself is not a direct observable. However, the more directly observable cosmic shear field is related to the convergence through a convolution and hence it can be reconstructed from the shear through a technique called the Kaiser-Squires (KS) inversion (see image on the left; courtesy: *Barthelemy et al. 2023*). One big challenge to this KS inversion is that the reconstruction procedure is non-local and hence is exact only if one has access to the cosmic shear field at every location in the sky, which is of course unfeasible in the presence of survey masks. Hence, a vanilla KS convergence reconstruction severely suffers from masking effects. In this work, we presented an accurate analytical model of the KS reconstructed convergence PDF under a DESY3-like survey mask and validated it with N-body simulations. We also discussed the modelling of several systematic effects in the reconstructed PDF including galaxy intrinsic alignments, additive and multiplicative shear biases, photometric redshift uncertainties, and higher-order lensing corrections. This is our first work in a series of papers on the KS convergence PDF and in upcoming works we plan to demonstrate the robustness of our theoretical modelling through simulated likelihood analyses as well as measure and analyse the reconstructed convergence PDF from DESY3 cosmic shear data.
+In weak lensing surveys, the lensing convergence field (which can be thought of as the line-of-sight projected mass map) itself is not a direct observable. However, the more directly observable cosmic shear field is related to the convergence through a convolution and hence it can be reconstructed from the shear through a technique called the Kaiser-Squires (KS) inversion (see image on the left; courtesy: *Barthelemy et al. 2024*). One big challenge to this KS inversion is that the reconstruction procedure is non-local and hence is exact only if one has access to the cosmic shear field at every location in the sky, which is of course unfeasible in the presence of survey masks. Hence, a vanilla KS convergence reconstruction severely suffers from masking effects. In this work, we presented an accurate analytical model of the KS reconstructed convergence PDF under a DESY3-like survey mask and validated it with N-body simulations. We also discussed the modelling of several systematic effects in the reconstructed PDF including galaxy intrinsic alignments, additive and multiplicative shear biases, photometric redshift uncertainties, and higher-order lensing corrections. This is our first work in a series of papers on the KS convergence PDF and in upcoming works we plan to demonstrate the robustness of our theoretical modelling through simulated likelihood analyses as well as measure and analyse the reconstructed convergence PDF from DESY3 cosmic shear data.
 
-Barthelemy, **Halder**, Gong, Uhlemann (2023)\
+Barthelemy, **Halder**, Gong, Uhlemann (2024)\
 *Making the leap I: Modelling the reconstructed lensing convergence PDF from cosmic shear with survey masks and systematics*\
 [arXiv:2307.09468](https://arxiv.org/abs/2307.09468) &nbsp; [JCAP](https://iopscience.iop.org/article/10.1088/1475-7516/2024/03/060)
 
