@@ -7,7 +7,7 @@ Over the course of my Bachelor's, Master's and Ph.D. I have had the opportunity 
 
 Here, I present some of my current research projects in weak lensing cosmology and their associated publications:
 
-### The integrated 3-point correlation function of projected cosmic density fields
+### The integrated 3-point correlation functions
 
 <img src="images/6xi3PCFs_illustration_v4.png" alt="Integrated 3PCFs image" style="float:left; padding-bottom:12px" />
 
@@ -35,30 +35,22 @@ Gebauer, **Halder**, Seitz, Anbajagane (2025)\
 
 &nbsp;
 
-### The joint PDF of galaxy and matter density fluctuations
+### The PDF of cosmic density fluctuations
 
 <img align="left" width="330" height="300" src="images/jointPDF.png" alt="Joint PDF image" style="float:left; padding-right:12px" />
 
-Along with my collaborators I have worked on modelling the 1-point joint PDF of 3D matter and galaxy density fluctuations (see image on the left; courtesy: *Friedrich et al. 2022*). Conventional 2-point analysis tools would compress this joint PDF into just 3 quantities: the variance of matter density fluctuations, the variance of galaxy density fluctuations, and their cross-covariance. In this work, we developed a model for the full shape of the joint galaxy-matter PDF and extensively validated it using N-body simulations and mock Halo Occupation Distribution (HOD) galaxy catalogs. Studying the full shape of the 1-point PDF is another way to go beyond 2-point analyses and enables further insights into the nature of the cosmic web of structures, especially on cosmological as well as galaxy bias and stochasticity parameters. We are currently extending our modelling to perform a joint-PDF analysis using CMB lensing data from SPT and DESY3 lens galaxies.
+Along with my collaborators I have worked on modelling the 1-point PDF of weak lensing convergence as well as the joint PDF of 3D matter and galaxy density fluctuations (see image on the left; courtesy: *Friedrich et al. 2022*). Conventional 2-point analysis tools would compress this joint PDF into just 3 quantities: the variance of matter density fluctuations, the variance of galaxy density fluctuations, and their cross-covariance. In this work, we developed a model for the full shape of the joint galaxy-matter PDF and extensively validated it using N-body simulations and mock Halo Occupation Distribution (HOD) galaxy catalogs. Studying the full shape of the 1-point PDF is another way to go beyond 2-point analyses and enables further insights into the nature of the cosmic web of structures, especially on cosmological as well as galaxy bias and stochasticity parameters. We are currently extending our modelling to perform a joint-PDF analysis using CMB lensing data from SPT and DESY3 lens galaxies. 
 
 Friedrich, **Halder**, Boyle, Uhlemann, Britt, Codis, Gruen, Hahn (2022)\
 *The PDF perspective on the tracer-matter connection: Lagrangian bias and non-Poissonian shot noise*\
 [arXiv:2107.02300](https://arxiv.org/abs/2107.02300) &nbsp; [MNRAS](https://academic.oup.com/mnras/article/510/4/5069/6505138?login=true)
 
-Friedrich, Castiblanco, **Halder**, Uhlemann (2025)\
-*Bye binormal: analysing the joint PDF of galaxy density and weak lensing convergence*\
-[arXiv:2507.16957](https://arxiv.org/abs/2507.16957) &nbsp; [MNRAS](https://academic.oup.com/mnras/article/545/4/staf2181/8408449)
-
-&nbsp;
-
-### Modelling the Kaiser-Squires reconstructed lensing convergence PDF under realistic survey masks
-
-<img align="left" width="360" height="260" src="images/convergenceKS_PDF.png" alt="Joint PDF image" style="float:left; padding-right:12px" />
-
-In weak lensing surveys, the lensing convergence field (which can be thought of as the line-of-sight projected mass map) itself is not a direct observable. However, the more directly observable cosmic shear field is related to the convergence through a convolution and hence it can be reconstructed from the shear through a technique called the Kaiser-Squires (KS) inversion (see image on the left; courtesy: *Barthelemy et al. 2024*). One big challenge to this KS inversion is that the reconstruction procedure is non-local and hence is exact only if one has access to the cosmic shear field at every location in the sky, which is of course unfeasible in the presence of survey masks. Hence, a vanilla KS convergence reconstruction severely suffers from masking effects. In this work, we presented an accurate analytical model of the KS reconstructed convergence PDF under a DESY3-like survey mask and validated it with N-body simulations. We also discussed the modelling of several systematic effects in the reconstructed PDF including galaxy intrinsic alignments, additive and multiplicative shear biases, photometric redshift uncertainties, and higher-order lensing corrections. This is our first work in a series of papers on the KS convergence PDF and in upcoming works we plan to demonstrate the robustness of our theoretical modelling through simulated likelihood analyses as well as measure and analyse the reconstructed convergence PDF from DESY3 cosmic shear data.
-
 Barthelemy, **Halder**, Gong, Uhlemann (2024)\
 *Making the leap I: Modelling the reconstructed lensing convergence PDF from cosmic shear with survey masks and systematics*\
 [arXiv:2307.09468](https://arxiv.org/abs/2307.09468) &nbsp; [JCAP](https://iopscience.iop.org/article/10.1088/1475-7516/2024/03/060)
+
+Friedrich, Castiblanco, **Halder**, Uhlemann (2025)\
+*Bye binormal: analysing the joint PDF of galaxy density and weak lensing convergence*\
+[arXiv:2507.16957](https://arxiv.org/abs/2507.16957) &nbsp; [MNRAS](https://academic.oup.com/mnras/article/545/4/staf2181/8408449)
 
 &nbsp;
