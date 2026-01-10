@@ -14,9 +14,9 @@ title: Teaching
 
 ### Mentoring experience
 
-- **David Gebauer** (Currently: --> PhD student at University of Bielefeld), **MSc and PhD projects** (2023-present) : *Probing higher-order lensing statistics with simulation based inference*.
-- **Yunhe Wang** (Currently: PhD student at LMU Munich), **Research project** (2023-2024) : *The impact of non-standard dark matter models on gravitational lensing statistics*.
-- **Yue Pan** (Currently: Graduate student at Princeton University), **DAAD RISE undergraduate scholar** (Summer semester 2022): *Massive Data Compression on Convergence Two-Point Correlation Function*.
-- **Zhengyangguang Gong** (Currently: Completed PhD in Astrophysics at LMU Munich and moving to Arizona as a postdoc), **MSc and PhD projects** (2020-2025),
+- **David Gebauer** (Currently PhD student at University of Bielefeld), **MSc and PhD projects** (2023-present) : *Probing higher-order lensing statistics with simulation based inference*.
+- **Yunhe Wang** (Currently PhD student at LMU Munich), **Research project** (2023-2024) : *The impact of non-standard dark matter models on gravitational lensing statistics*.
+- **Yue Pan** (Currently Graduate student at Princeton University), **DAAD RISE undergraduate scholar** (Summer semester 2022): *Massive Data Compression on Convergence Two-Point Correlation Function*.
+- **Zhengyangguang Gong** (Currently Postdoctoral researcher at Steward Observatory, University of Arizona), **MSc and PhD projects** (2020-2025),
 
 &nbsp;
