@@ -3,12 +3,12 @@ layout: my-page
 title: Talks
 ---
 
-I have given over several talks at conferences, seminars, colloquia, and collaboration meetings. Below are a few selected presentations: 
+I have delivered several talks at conferences, seminars, colloquia, and collaboration meetings. Below are a few selected talks: 
 
 ## Selected talks
 
 - *May 2025*, *Higher-order weak lensing analyses and the road to galaxy-population split statistics*, **2025 MIAPbP program "Cosmological Surveys", Garching, Germany**.
-- *Dec 2024*, *Random matrix theory insights in the the precision matrix expansion*, **Imperial College London Astrophysics Group Meeting", London, UK**.
+- *Dec 2024*, *Random matrix theory insights into the precision matrix expansion*, **Astrophysics Group Meeting, Imperial College London, UK**.
 - *May 2024*, *The Integrated 3-point correlation function of projected cosmic density fields*, **18th Kosmologietag, Bielefeld, Germany**.
 - *April 2023*, *The Integrated 3-point correlation function of projected cosmic density fields*, **Future Cosmology summer school, Cargese, France**.
 - *Jan 2023*, *Response approach to the Integrated shear 3-point correlation function: impact of baryonic effects on small scales*, **Cosmo-Exgal seminar, University College London, UK**.
