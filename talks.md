@@ -7,10 +7,6 @@ I have delivered several talks at conferences, seminars, colloquia, and collabor
 
 ## Selected talks
 
-- *October 2026*, *Physical properties and redshift distributions of KiDS-1000 galaxies using pop-cosmos*, **University of Edinburgh, UK** (invited, upcoming).
-- *September 2026*, *Physical properties and redshift distributions of KiDS-1000 galaxies using pop-cosmos*, **LSST@Europe8, Budapest, Hungary** (invited, upcoming).
-- *September 2026*, *Physical properties and redshift distributions of KiDS-1000 galaxies using pop-cosmos*, **Princeton University, USA** (invited, upcoming).
-- *September 2026*, *Physical properties and redshift distributions of KiDS-1000 galaxies using pop-cosmos*, **Stony Brook University, USA** (invited, upcoming).
 - *September 2026*, *Physical properties and redshift distributions of KiDS-1000 galaxies using pop-cosmos*, **Astrophysics and Space Science in Marche III: Big Bang, Big Stars, Big Computers, Jesi, Italy** (invited).
 - *August 2026*, *Physical properties and redshift distributions of KiDS-1000 galaxies using pop-cosmos*, **COSMO-26, Leiden University, Netherlands**.
 - *June 2026*, *Physical properties and redshift distributions of KiDS-1000 galaxies using pop-cosmos*, **University of Oxford, UK** (invited).
@@ -20,7 +16,7 @@ I have delivered several talks at conferences, seminars, colloquia, and collabor
 - *May 2025*, *Higher-order weak lensing analyses and the road to galaxy-population split statistics*, **MIAPbP program "Big Data, Big Questions: The Future of Cosmological Surveys", Garching, Germany**.
 - *Dec 2024*, *Random matrix theory insights into the precision matrix expansion*, **Astrophysics Group Meeting, Imperial College London, UK**.
 - *May 2024*, *The Integrated 3-point correlation function of projected cosmic density fields*, **18th Kosmologietag, Bielefeld, Germany**.
-- *April 2023*, *The Integrated 3-point correlation function of projected cosmic density fields*, **Future Cosmology summer school, Cargese, France**.
+- *April 2023*, *The Integrated 3-point correlation function of projected cosmic density fields*, **Future Cosmology summer school, Cargèse, France**.
 - *Jan 2023*, *Response approach to the Integrated shear 3-point correlation function: impact of baryonic effects on small scales*, **Cosmo-Exgal seminar, University College London, UK**.
 - *Jan 2023*, *Response approach to the Integrated shear 3-point correlation function: impact of baryonic effects on small scales*, **Special Session on New Results from the Dark Energy Survey, 241st American Astronomical Society Meeting, Seattle, USA**.
 
