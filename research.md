@@ -5,7 +5,33 @@ title: Research
 
 Over the course of my Bachelor's, Master's and Ph.D. I have had the opportunity to work on several short and long-term research projects on various topics in Physics through internships, research assistantships or thesis projects (please refer to my [CV](cv/AnikHalder_CV.pdf) for details). I have worked mainly on analytical and computational projects in the fields of laser optics, planetary and space science, geosciences, x-ray reflectometry, and of course, astrophysics. Please refer to my [Google Scholar](https://scholar.google.com/citations?user=HZm11dQAAAAJ&hl=en) profile for a full list of publications that I am involved in.
 
-Here, I present some of my current research projects in weak lensing cosmology and their associated publications:
+Here, I present some of my current research projects in weak lensing cosmology and galaxy evolution and their associated publications:
+
+### pop-cosmos: from galaxy populations to cosmology
+
+[pop-cosmos](https://github.com/Cosmo-Pop/pop-cosmos) is a generative model for the evolving galaxy population, calibrated on deep multi-wavelength photometry from COSMOS2020. It provides a physically motivated prior over the galaxy population up to redshift *z* ≈ 6 in stellar population synthesis parameter space. Using this prior with an emulator for stellar population synthesis and GPU-accelerated sampling, we have inferred joint posteriors on the redshifts and physical properties (such as stellar mass and star-formation rate) of 4 million galaxies in the Kilo-Degree Survey (KiDS-1000). This is the first principled Bayesian inference of galaxy properties for a wide-area weak lensing survey. We validated the redshifts against around 185,000 KiDS galaxies with DESI spectroscopic redshifts. The same galaxy population model also forward-models the KiDS-1000 redshift distributions directly, without spectroscopic reweighting. With these catalogues we can select galaxy samples by their physical properties rather than by colour proxies, which opens the way to weak lensing and multi-tracer analyses with better control of systematic effects such as intrinsic alignments.
+
+**Halder**, Peiris, Thorp, Leistedt, Mortlock, Jagwani, Tudorache, Deger, Van den Bussche, Leja, Wright (2026)\
+*pop-cosmos: Redshifts and physical properties of KiDS-1000 galaxies*\
+[arXiv:2602.03930](https://arxiv.org/abs/2602.03930) &nbsp; [MNRAS](https://doi.org/10.1093/mnras/stag1590)
+
+Leistedt, Peiris, **Halder**, Thorp, Mortlock, Loureiro, Alsing, Jagwani, Tudorache, Deger, Leja, Van den Bussche, Wright, Li, Kuijken, Hildebrandt (2026)\
+*pop-cosmos: Forward modeling KiDS-1000 redshift distributions using realistic galaxy populations*\
+[arXiv:2602.03935](https://arxiv.org/abs/2602.03935)
+
+Thorp, Peiris, Jagwani, Deger, Alsing, Leistedt, Mortlock, **Halder**, Leja (2025)\
+*pop-cosmos: Insights from generative modeling of a deep, infrared-selected galaxy population*\
+[arXiv:2506.12122](https://arxiv.org/abs/2506.12122) &nbsp; [ApJ](https://doi.org/10.3847/1538-4357/ae0936)
+
+Van den Bussche, Deger, Peiris, Thorp, Mortlock, Leistedt, **Halder**, Tudorache, Jagwani (2026)\
+*pop-cosmos: Disentangling galaxy properties from observables using data-driven approaches*\
+[arXiv:2606.11308](https://arxiv.org/abs/2606.11308)
+
+Tudorache, Peiris, Thorp, Deger, Mortlock, Jagwani, **Halder**, Leistedt, Van den Bussche, Leja (2026)\
+*pop-cosmos: Galaxy size evolution across structural and star-formation classifications in COSMOS-Web*\
+[arXiv:2606.28489](https://arxiv.org/abs/2606.28489)
+
+&nbsp;
 
 ### The integrated 3-point correlation functions
 
@@ -31,7 +57,11 @@ Gong, **Halder**, Barreira, Seitz, Friedrich (2023)\
 
 Gebauer, **Halder**, Seitz, Anbajagane (2025)\
 *𝚂𝙱𝚒𝟹𝙿𝙲𝙵: Simulation-based inference with the integrated 3PCF*\
-[arXiv:2510.13805](https://arxiv.org/abs/2510.13805) &nbsp;
+[arXiv:2510.13805](https://arxiv.org/abs/2510.13805) &nbsp; [JCAP](https://doi.org/10.1088/1475-7516/2026/06/036)
+
+Gomes, Sugiyama, et al. incl. **Halder** (DES Collaboration, 2025)\
+*Dark Energy Survey Year 3 Results: Cosmological constraints from second- and third-order shear statistics*\
+[arXiv:2508.14018](https://arxiv.org/abs/2508.14018) &nbsp; [PRD](https://doi.org/10.1103/sxlz-t9gb)
 
 &nbsp;
 
