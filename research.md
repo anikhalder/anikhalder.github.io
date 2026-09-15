@@ -33,13 +33,9 @@ Thorp, Peiris, Jagwani, Deger, Alsing, Leistedt, Mortlock, **Halder**, Leja (202
 
 In this series of works we have developed a set of practical higher-order statistics called the *integrated 3-point correlation functions* which can be easily measured from galaxy imaging data alongside conventional 2-point statistical methods and has the potential to put tighter constraints on cosmological, galaxy bias as well as baryonic feedback parameters (see image above; courtesy: *Halder et al. 2023*). This statistic measures the *position-dependent* 2-point correlation functions of a field (e.g. 3 x 2-point galaxy-lensing correlations) inside a local 2D patch and correlates them with the 1-point average shear or galaxy density within the same patch. This correlation admits a very well-defined physical interpretation as the modulation of the small-scale 2PCFs by long-wavelength features of the field and in turn is sensitive to the higher-order squeezed bispectrum configurations (3-point function) of the field. Using semi-analytical methods based on perturbation theory for accurately modelling this statistic along with the inclusion of galaxy bias, intrinsic alignments, baryonic feedback effects as well as other nuisance parameters, we have extensively validated our models against N-body simulations and with state-of-the art machine learning neural networks developed fast inference pipelines for their application to galaxy survey data (which we are currently undertaking). We are also extending this to a simulation based inference framework.
 
-Gebauer, **Halder**, Seitz, Anbajagane (2025)\
+Gebauer, **Halder**, Seitz, Anbajagane (2026)\
 *𝚂𝙱𝚒𝟹𝙿𝙲𝙵: Simulation-based inference with the integrated 3PCF*\
 [arXiv:2510.13805](https://arxiv.org/abs/2510.13805) &nbsp; [JCAP](https://doi.org/10.1088/1475-7516/2026/06/036)
-
-Gomes, Sugiyama, et al. incl. **Halder** (DES Collaboration, 2025)\
-*Dark Energy Survey Year 3 Results: Cosmological constraints from second- and third-order shear statistics*\
-[arXiv:2508.14018](https://arxiv.org/abs/2508.14018) &nbsp; [PRD](https://doi.org/10.1103/sxlz-t9gb)
 
 **Halder**, Gong, Barreira, Friedrich, Seitz, Gruen (2023)\
 *Beyond 3x2-point cosmology: the integrated shear and galaxy 3-point correlation functions*\
@@ -65,7 +61,7 @@ Gong, **Halder**, Barreira, Seitz, Friedrich (2023)\
 
 Along with my collaborators I have worked on modelling the 1-point PDF of weak lensing convergence as well as the joint PDF of 3D matter and galaxy density fluctuations (see image on the left; courtesy: *Friedrich et al. 2022*). Conventional 2-point analysis tools would compress this joint PDF into just 3 quantities: the variance of matter density fluctuations, the variance of galaxy density fluctuations, and their cross-covariance. In this work, we developed a model for the full shape of the joint galaxy-matter PDF and extensively validated it using N-body simulations and mock Halo Occupation Distribution (HOD) galaxy catalogs. Studying the full shape of the 1-point PDF is another way to go beyond 2-point analyses and enables further insights into the nature of the cosmic web of structures, especially on cosmological as well as galaxy bias and stochasticity parameters. We are currently extending our modelling to perform a joint-PDF analysis using CMB lensing data from SPT and DESY3 lens galaxies. 
 
-Friedrich, Castiblanco, **Halder**, Uhlemann (2025)\
+Friedrich, Castiblanco, **Halder**, Uhlemann (2026)\
 *Bye binormal: analysing the joint PDF of galaxy density and weak lensing convergence*\
 [arXiv:2507.16957](https://arxiv.org/abs/2507.16957) &nbsp; [MNRAS](https://academic.oup.com/mnras/article/545/4/staf2181/8408449)
 
@@ -79,6 +75,24 @@ Friedrich, **Halder**, Boyle, Uhlemann, Britt, Codis, Gruen, Hahn (2022)\
 
 &nbsp;
 
+### Intrinsic alignments and baryonic feedback
+
+<img align="left" width="400" src="images/halo_feedback_probe_sensitivity.png" alt="Halo feedback sensitivity image" style="float:left; padding-right:12px" />
+
+Weak lensing and other probes of the large-scale structure are shaped by astrophysical effects that must be modelled to infer the correct cosmology. Two of the most important are the intrinsic alignments (IA) of galaxy shapes and the redistribution of matter by baryonic feedback from galaxy formation. Within the LSST Dark Energy Science Collaboration, we have infused a range of IA models directly into weak lensing simulations and studied how they change non-Gaussian cosmic shear statistics, including the integrated 3-point functions. Using the FLAMINGO simulations, we have studied feedback from the perspective of halo assembly histories: which halo populations the thermal and kinetic Sunyaev-Zel'dovich effects, X-ray number counts and weak lensing are sensitive to (see image on the left; courtesy: *Lucie-Smith et al. 2025*), and when in their history feedback changes their mass. Feedback redistributes baryons most efficiently when halos reach a mass of about 10<sup>12.8</sup> solar masses.
+
+<div style="clear:both"></div>
+
+Harnois-Déraps, Šarčević, Medina Varela, et al. incl. **Halder** (LSST DESC, 2026)\
+*Non-linear infusion of intrinsic alignment and source clustering: impact on non-Gaussian cosmic shear statistics*\
+[arXiv:2509.25166](https://arxiv.org/abs/2509.25166) &nbsp; [MNRAS](https://doi.org/10.1093/mnras/stag1213)
+
+Lucie-Smith, Peiris, Pontzen, **Halder**, Schaye, Schaller, Helly, McGibbon, Elbers (2025)\
+*Cosmological feedback from a halo assembly perspective*\
+[arXiv:2505.18258](https://arxiv.org/abs/2505.18258) &nbsp; [PRD](https://doi.org/10.1103/vh8n-9cr2)
+
+&nbsp;
+
 ### Quantifying cosmological information
 
 <img src="images/c3nn_architecture.png" alt="C3NN image" style="float:left; padding-bottom:12px" />
@@ -88,23 +102,5 @@ Going beyond 2-point statistics raises a practical question: how much informatio
 Gong, **Halder**, Bohrdt, Seitz, Gebauer (2024)\
 *C3NN: Cosmological Correlator Convolutional Neural Network, an interpretable machine-learning framework for cosmological analyses*\
 [arXiv:2402.09526](https://arxiv.org/abs/2402.09526) &nbsp; [ApJ](https://doi.org/10.3847/1538-4357/ad582e)
-
-&nbsp;
-
-### Intrinsic alignments and baryonic feedback
-
-<img align="left" width="400" src="images/halo_feedback_probe_sensitivity.png" alt="Halo feedback sensitivity image" style="float:left; padding-right:12px" />
-
-Weak lensing and other probes of the large-scale structure are shaped by astrophysical effects that must be modelled to infer the correct cosmology. Two of the most important are the intrinsic alignments (IA) of galaxy shapes and the redistribution of matter by baryonic feedback from galaxy formation. Within the LSST Dark Energy Science Collaboration, we have infused a range of IA models directly into weak lensing simulations and studied how they change non-Gaussian cosmic shear statistics, including the integrated 3-point functions. Using the FLAMINGO simulations, we have studied feedback from the perspective of halo assembly histories: which halo populations the thermal and kinetic Sunyaev-Zel'dovich effects, X-ray number counts and weak lensing are sensitive to (see image on the left; courtesy: *Lucie-Smith et al. 2025*), and when in their history feedback changes their mass. Feedback redistributes baryons most efficiently when halos reach a mass of about 10<sup>12.8</sup> solar masses.
-
-<div style="clear:both"></div>
-
-Harnois-Déraps, Šarčević, Medina Varela, et al. incl. **Halder** (LSST DESC, 2025)\
-*Non-linear infusion of intrinsic alignment and source clustering: impact on non-Gaussian cosmic shear statistics*\
-[arXiv:2509.25166](https://arxiv.org/abs/2509.25166) &nbsp; [MNRAS](https://doi.org/10.1093/mnras/stag1213)
-
-Lucie-Smith, Peiris, Pontzen, **Halder**, Schaye, Schaller, Helly, McGibbon, Elbers (2025)\
-*Cosmological feedback from a halo assembly perspective*\
-[arXiv:2505.18258](https://arxiv.org/abs/2505.18258) &nbsp; [PRD](https://doi.org/10.1103/vh8n-9cr2)
 
 &nbsp;
