@@ -12,7 +12,6 @@ Selected talks at conferences, seminars and colloquia, grouped by topic.
 - University of Oxford, UK, June 2026 (invited)
 - University of Nottingham, UK, May 2026 (invited)
 - UK Cosmology Meeting, Imperial College London, UK, March 2026
-- Institute of Astronomy Seminar, University of Cambridge, UK, March 2026
 
 **Higher-order weak lensing analyses and the road to galaxy-population split statistics**
 
@@ -22,13 +21,10 @@ Selected talks at conferences, seminars and colloquia, grouped by topic.
 
 - Astrophysics Group Meeting, Imperial College London, UK, December 2024
 
-**The integrated 3-point correlation function of projected cosmic density fields**
+**The integrated 3-point correlation functions**
 
 - 18th Kosmologietag, Bielefeld, Germany, May 2024
 - Future Cosmology summer school, Cargèse, France, April 2023
-
-**Response approach to the integrated shear 3-point correlation function: impact of baryonic effects on small scales**
-
 - Special Session on New Results from the Dark Energy Survey, 241st American Astronomical Society Meeting, Seattle, USA, January 2023 (invited)
 - Cosmo-Exgal seminar, University College London, UK, January 2023
 
