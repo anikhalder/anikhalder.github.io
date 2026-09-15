@@ -1,14 +1,33 @@
 # Site settings
 title: Anik Halder
 description: Postdoctoral Research Associate at the Institute of Astronomy, University of Cambridge
+url: "https://anikhalder.github.io"
 
 author:
   name: Anik Halder
   email: "[firstname].[lastname] [at] ast.cam.ac.uk"
-  
+
 # Build settings
 remote_theme: jekyll/minima
 
 minima:
   skin: classic
-  
+  nav_pages:
+    - research.md
+    - talks.md
+    - teaching.md
+    - cv.md
+  social_links:
+    - title: Google Scholar
+      icon: google-scholar
+      url: "https://scholar.google.com/citations?user=HZm11dQAAAAJ&hl=en"
+    - title: ORCID
+      icon: orcid
+      url: "https://orcid.org/0000-0002-0352-9351"
+    - title: GitHub
+      icon: github
+      url: "https://github.com/anikhalder"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/anikhalder/"
+  hide_site_feed_link: true
