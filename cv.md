@@ -5,9 +5,9 @@ title: CV
 
 ### Positions
 
-- **2024-present**: Postdoctoral Research Associate, Institute of Astronomy and Kavli Institute for Cosmology, University of Cambridge
-- **2024-present**: Postdoctoral Associate, Jesus College, University of Cambridge
+- **2024-present**: Postdoctoral Research Associate, Institute of Astronomy and Kavli Institute for Cosmology, and Postdoctoral Associate, Jesus College, University of Cambridge
 - **2019-2024**: Teaching and Research Assistant, University Observatory Munich (LMU) and Max Planck Institute for Extraterrestrial Physics
+- **2017-2018**: Software Developer, Scientific Computing group, Heinz Maier-Leibnitz Zentrum, Garching
 
 ### Education
 
