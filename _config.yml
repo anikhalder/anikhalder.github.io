@@ -16,6 +16,7 @@ minima:
     - research.md
     - talks.md
     - teaching.md
+    - outreach.md
     - cv.md
   social_links:
     - title: Google Scholar
