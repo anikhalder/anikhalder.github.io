@@ -7,13 +7,7 @@ I enjoy taking cosmology to audiences outside astronomy, usually by working with
 
 ### life &#124; TIME
 
-A three-part panel series that I am convening with [Miranda Robbins](https://www.jesus.cam.ac.uk/people/miranda-robbins), a neuroscientist at Jesus College, funded by the [Intellectual Forum](https://www.jesus.cam.ac.uk/research/intellectual-forum) at Jesus College. The series asks what endures, what fades, and what we inherit across biological, cosmic and economic time:
-
-- *memory &#124; IMMORTALITY*: how living systems record the past and project themselves into the future, from cellular memory to the persistence of identity across a lifespan.
-- *grief &#124; ETERNITY*: human loss set against a Universe billions of years old, and how cosmic timescales can reframe our responses to grief.
-- *scarcity &#124; LEGACY*: how decisions about finite resources bind future generations.
-
-Each panel brings scientists, humanities scholars and policy voices into direct conversation, with half the time given to the audience. The panels will run in 2027.
+[Miranda Robbins](https://www.jesus.cam.ac.uk/people/miranda-robbins), a neuroscientist at Jesus College, and I are convening a three-part panel series, funded by the College's [Intellectual Forum](https://www.jesus.cam.ac.uk/research/intellectual-forum). It asks what endures, what fades, and what we inherit across biological, cosmic and economic time, bringing scientists, humanities scholars and policy voices into conversation. The series runs in 2027.
 
 &nbsp;
 
@@ -30,7 +24,7 @@ I collaborate with [Louise Beer](https://www.louisebeer.com), Artist in Residenc
 
 &nbsp;
 
-### Talks
+### Selected talks
 
 <img src="images/outreach_wuhan_lensing.jpg" alt="Anik Halder with students from Wuhan College after a talk on gravitational lensing at Jesus College" style="float:left; padding-bottom:12px" />
 
