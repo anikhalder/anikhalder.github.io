@@ -21,6 +21,7 @@ title: Teaching
 
 ### Teaching
 
+- Supervisor for *Introduction to Cosmology* (Part II), University of Cambridge (Lent term 2026).
 - Designed the [Weak Gravitational Lensing](https://datashare.mpcdf.mpg.de/s/iQL4nUmrDaYzmfP) lab for the MSc Astrophysics lab course at LMU Munich, together with Zhengyangguang Gong, and tutored the [Basics and Numerical labs](https://www.usm.lmu.de/Lehre/Lehrveranstaltungen/Praktikum/) (2020-2024).
 - Tutor and substitute lecturer for the MSc Astrophysics course *Formation and Evolution of Cosmic Structures* by [Dr. Ariel Sanchez](https://www.mpe.mpg.de/~arielsan/), LMU Munich (2023).
 - Tutor for the BSc Physics lab, LMU Munich (2019/2020).
