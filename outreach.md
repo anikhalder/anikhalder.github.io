@@ -7,7 +7,7 @@ I enjoy taking cosmology to audiences outside astronomy, usually by working with
 
 ### life &#124; TIME
 
-[Miranda Robbins](https://www.jesus.cam.ac.uk/people/miranda-robbins), a neuroscientist at the University of Cambridge and, like me, a College Postdoctoral Associate at Jesus College, and I are convening a three-part panel series, funded by the College's [Intellectual Forum](https://www.jesus.cam.ac.uk/research/intellectual-forum). It asks what endures, what fades, and what we inherit across biological, cosmic and economic time, bringing scientists, humanities scholars and policy voices into conversation. The series runs in 2027.
+[Miranda Robbins](https://www.jesus.cam.ac.uk/people/miranda-robbins), a neuroscientist at the University of Cambridge and Jesus College, and I are convening a three-part panel series, funded by the College's [Intellectual Forum](https://www.jesus.cam.ac.uk/research/intellectual-forum). It asks what endures, what fades, and what we inherit across biological, cosmic and economic time, bringing scientists, humanities scholars and policy voices into conversation. The series runs in 2027.
 
 &nbsp;
 
