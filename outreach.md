@@ -3,7 +3,7 @@ layout: my-page
 title: Outreach
 ---
 
-I enjoy taking cosmology to audiences outside astronomy, usually by working with people from other disciplines. Below are the projects and talks I am involved in.
+I enjoy taking astronomy and cosmology to various audiences, and love collaborating and thinking about the confluences between different disciplines and crafts. Below are the projects and talks I am involved in.
 
 ### Earth, a Cosmic Spectacle
 
