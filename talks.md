@@ -7,6 +7,8 @@ Selected talks at conferences, seminars and colloquia, grouped by topic.
 
 **Physical properties and redshift distributions of KiDS-1000 galaxies using pop-cosmos**
 
+- LSST@Europe8, Budapest, Hungary, September 2026 (invited)
+- Stony Brook University, USA, September 2026 (invited)
 - Astrophysics and Space Science in Marche III: Big Bang, Big Stars, Big Computers, Jesi, Italy, September 2026 (invited)
 - COSMO-26, Leiden University, Netherlands, August 2026
 - University of Oxford, UK, June 2026 (invited)
@@ -27,11 +29,15 @@ Selected talks at conferences, seminars and colloquia, grouped by topic.
 - Future Cosmology summer school, Cargèse, France, April 2023
 - Special Session on New Results from the Dark Energy Survey, 241st American Astronomical Society Meeting, Seattle, USA, January 2023 (invited)
 - Cosmo-Exgal seminar, University College London, UK, January 2023
+- Astromérique Speaker Series, Université de Montréal, Canada, 2023 (remote)
+- Cosmology with Weak Lensing: Beyond the Two-point Statistics, Yukawa Institute for Theoretical Physics, Kyoto, Japan, April 2022 (remote)
 
 &nbsp;
 
 ### Meeting and seminar organisation
 
-- Splinter session *Beyond 2-Point Large Scale Structure Cosmology*, Annual Meeting of the Astronomische Gesellschaft, Garching, Germany, September 2026
+- KICC workshop *Crossing tracers*, University of Cambridge, 2027 (proposer and organiser)
+- Splinter session *Beyond 2-Point Large Scale Structure Cosmology*, Annual Meeting of the Astronomische Gesellschaft, Garching, Germany, September 2026 (proposer and organiser)
+- LSST DESC Sprint Week, University of Cambridge, November 2025 (co-organiser)
 - Institute of Astronomy Colloquium and KICC CMB-LSS seminar, University of Cambridge
 - Extragalactic Astronomy group seminar, LMU Munich
