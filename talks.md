@@ -36,8 +36,8 @@ Selected talks at conferences, seminars and colloquia, grouped by topic.
 
 ### Meeting and seminar organisation
 
-- KICC workshop *Crossing tracers*, University of Cambridge, 2027 (proposer and organiser)
-- Splinter session *Beyond 2-Point Large Scale Structure Cosmology*, Annual Meeting of the Astronomische Gesellschaft, Garching, Germany, September 2026 (proposer and organiser)
+- KICC workshop *Crossing tracers*, University of Cambridge, 2027 (organiser)
+- Splinter session *Beyond 2-Point Large Scale Structure Cosmology*, Annual Meeting of the Astronomische Gesellschaft, Garching, Germany, September 2026 (organiser)
 - LSST DESC Sprint Week, University of Cambridge, November 2025 (co-organiser)
 - Institute of Astronomy Colloquium and KICC CMB-LSS seminar, University of Cambridge
 - Extragalactic Astronomy group seminar, LMU Munich
