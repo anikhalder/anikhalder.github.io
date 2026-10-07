@@ -1,9 +1,9 @@
 ---
 layout: my-page
-title: Outreach
+title: Outreach and Activities
 ---
 
-I enjoy taking astronomy and cosmology to various audiences, and love collaborating and thinking about the confluences between different disciplines and crafts. Below are the projects and talks I am involved in.
+I enjoy taking astronomy and cosmology to audiences beyond the field, and love collaborating and thinking about the confluences between different disciplines and crafts. I am also drawn to wider questions about science and society, including those raised by artificial intelligence. Below are the projects, meetings and talks I am involved in.
 
 ### Earth, a Cosmic Spectacle
 
@@ -15,6 +15,14 @@ I collaborate with [Louise Beer](https://www.louisebeer.com), Artist in Residenc
 
 - *Earth, a Cosmic Spectacle*, **Intellectual Forum, Jesus College, University of Cambridge**, March 2026. Louise presented the project and I joined her on stage for the discussion that followed. [Recording](https://www.youtube.com/watch?v=KYtO5j9uDeA)
 - *Earth, a Cosmic Spectacle: expert panel*, **Everybody Arts, Halifax**, January 2026. An online panel with Louise and Miranda Lowe CBE, Principal Curator at the Natural History Museum, chaired by Sammi Lukic-Scott, accompanying the exhibition at the Everybody Gallery. [Recording](https://www.everybodyarts.org.uk/news/eacs-panel)
+
+&nbsp;
+
+&nbsp;
+
+### Beyond the Telescope
+
+With [Jaco de Swart](https://jacodeswart.com), a trained physicist and philosopher who is a Marie Skłodowska-Curie Fellow in the Department of History and Philosophy of Science and at the Institute of Astronomy, I co-organise *Beyond the Telescope*, a reading group and focus session series at the IoA. It brings astronomers together with historians and philosophers of science. The meetings run through Michaelmas term 2026.
 
 &nbsp;
 

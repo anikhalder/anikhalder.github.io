@@ -7,7 +7,7 @@ Selected talks at conferences, seminars and colloquia, grouped by topic.
 
 **Physical properties and redshift distributions of KiDS-1000 galaxies using pop-cosmos**
 
-- LSST@Europe8, Budapest, Hungary, September 2026 (invited)
+- LSST@Europe8, Budapest, Hungary, September 2026
 - Stony Brook University, USA, September 2026 (invited)
 - Astrophysics and Space Science in Marche III: Big Bang, Big Stars, Big Computers, Jesi, Italy, September 2026 (invited)
 - COSMO-26, Leiden University, Netherlands, August 2026
