@@ -22,7 +22,7 @@ I collaborate with [Louise Beer](https://www.louisebeer.com), Artist in Residenc
 
 ### Beyond the Telescope: Ethics, AI, and Sustainability in Astronomy
 
-With [Jaco de Swart](https://jacodeswart.com), a physicist and philosopher in the Department of History and Philosophy of Science, I organise *Beyond the Telescope*, a Kavli Focus Meeting at the Institute of Astronomy. It is a reading group that brings astronomers together with historians and philosophers of science to look at the field from the outside. Each week takes a different angle: astronomy and imperialism, place, community, development, artificial intelligence, sustainability and ethics, closing with a session on the future of responsible astronomy.
+With [Jaco de Swart](https://jacodeswart.com), a physicist and philosopher in the Department of History and Philosophy of Science, I organise *Beyond the Telescope*, an interdisciplinary reading group at the Institute of Astronomy. It is a reading group that brings astronomers together with historians and philosophers of science to look at the field from the outside. Each week takes a different angle: astronomy and imperialism, place, community, development, artificial intelligence, sustainability and ethics, closing with a session on the future of responsible astronomy.
 
 The group meets on Mondays from 11:30 to 12:30 through Michaelmas term 2026, beginning 19 October, in the Hoyle Committee Room at the Institute of Astronomy, with tea beforehand at 11:00 in the Hoyle Foyer. Anyone interested is welcome to join.
 
